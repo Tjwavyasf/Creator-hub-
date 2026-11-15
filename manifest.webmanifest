@@ -1,0 +1,9 @@
+{
+  "name": "Creator Hub",
+  "short_name": "Creator Hub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121211",
+  "theme_color": "#121211",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
